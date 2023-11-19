@@ -3,10 +3,10 @@
 	spacing:1px solid black;
 	cell padding:1px
 }
-#center{
+.center{
 text-align:center;
 }
-#right{
+.right{
 text-right:right;
 }
 #green{
