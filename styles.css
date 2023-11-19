@@ -1,17 +1,17 @@
 /*  your css code here. If applicable */
-.table{
+#table{
 	spacing:1px solid black;
 	cell padding:1px
 }
-.center{
+#center{
 text-align:center;
 }
-.right{
+#right{
 text-right:right;
 }
-.green{
+#green{
 	background:green;
 }
-.blue{
+#blue{
 	background:blue;
 }
