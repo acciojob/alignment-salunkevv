@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+.table{
+	spacing:1px solid black;
+	cell padding:1px
+}
