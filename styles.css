@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 #table{
-	spacing:1px solid black;
+	border:1px;
+	spacing:1px;
 	cell padding:1px
 }
 .center{
